@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Sounds>
+
+	<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>OxygenGeneratorUnlocked</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>0.5</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/oxygenGeneratorUnlocked.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+		<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>UnlockAtmospherics</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>0.5</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/unlockAtmospherics.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+	<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>UnlockedMissiles</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>0.5</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/unlockedMissiles.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+	<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>OxygenFarmUnlocked</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>0.5</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/oxygenFarmUnlocked.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+	
+	<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>GasStorageUnlocked</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>0.5</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/gasStorageUnlocked.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+		<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>AllTechUnlocked</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>0.5</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/allTechUnlocked.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+	<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>HackingSound</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>1.0</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/HackingSound.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+	<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>ConnectionLostSound</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>1.0</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/ConnectionLostSound.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+	<Sound>
+      <Id>
+        <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+        <SubtypeId>HackFinished</SubtypeId>
+      </Id>
+      <MaxDistance>1</MaxDistance>
+      <Volume>1.0</Volume>
+      <Loopable>false</Loopable>
+      <Pitch>0</Pitch>
+      <Waves>
+        <Wave Type="D2">
+          <Start>Audio/HackFinished.xwm</Start>
+        </Wave>
+      </Waves>
+    </Sound>
+	
+  <Sound>
+    <Id>
+      <TypeId>MyObjectBuilder_AudioDefinition</TypeId>
+      <SubtypeId>BasicWeaponsUnlocked</SubtypeId>
+    </Id>
+    <MaxDistance>1</MaxDistance>
+    <Volume>0.5</Volume>
+    <Loopable>false</Loopable>
+    <Pitch>0</Pitch>
+    <Waves>
+      <Wave Type="D2">
+        <Start>Audio/BasicWeaponsUnlocked.xwm</Start>
+      </Wave>
+    </Waves>
+  </Sound>
+
+
+  </Sounds>
+</Definitions>
